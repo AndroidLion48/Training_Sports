@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (c) 2021 The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -35,6 +34,5 @@
         android:id="@+id/SportsNewsFragment"
         android:name="com.example.android.sports.NewsDetailsFragment"
         android:label="@string/news_fragment_label"
-        tools:layout="@layout/fragment_sports_news">
-    </fragment>
+        tools:layout="@layout/fragment_sports_news"></fragment>
 </navigation>

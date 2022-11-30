@@ -34,7 +34,7 @@ class SportsAdapter(private val onItemClicked: (Sport) -> Unit) :
     class SportsViewHolder(private var binding: SportsListItemBinding) :
         RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(sport: Sport, context:Context) {
+        fun bind(sport: Sport, context: Context) {
             binding.title.text = context.getString(sport.titleResourceId)
             binding.subTitle.text = context.getString(sport.subTitleResourceId)
             // Load the images into the ImageView using the Coil library.
