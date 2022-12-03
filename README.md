@@ -1,6 +1,9 @@
 Sports App
 ===================================
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Starter code for Android Basics codelab - Adaptive Layouts
 
 Sports app is a basic app to introduce beginner students to adaptive layouts. This app consists of
